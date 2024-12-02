@@ -132,6 +132,22 @@ node . mint <address> "" ""  <delegate inscription ID>
 
 **Note**: Please use a fresh wallet to mint to with nothing else in it until proper wallet for doginals support comes. You can get a paper wallet [here](https://www.fujicoin.org/wallet_generator?currency=Dogecoin).
 
+### Mint delegates in bulk
+
+This script helps mint delegates in bulk.
+
+Modify the script parameters such as total inscriptions, address, and delegate txid to your needs.
+
+Make `mint_delegates.sh` executable
+```
+chmod +x mint_delegates.sh
+```
+
+Run the script
+```
+./mint_delegates.sh
+```
+
 ## DRC-20
 ```
 node . drc-20 deploy <address> <ticker> <total> <max mint>
