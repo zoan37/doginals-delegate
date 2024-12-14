@@ -1,0 +1,473 @@
+Starting mint process at Sun Dec  1 15:33:29 EST 2024
+Success - Inscription 0 - TXID: d8a6789415501283617d24f1f7f7eccf14e01e2487b61d7ec2f640021b14820b - Sun Dec  1 15:33:29 EST 2024
+Success - Inscription 1 - TXID: 014ab11802ac511697075b8f013917b0e3cbc843002d24a38f6a1bab16f83bc6 - Sun Dec  1 15:33:34 EST 2024
+Success - Inscription 2 - TXID: 0004188f79d02903084546fe812336b7832a660f870c25a466383c58ef5117b5 - Sun Dec  1 15:33:40 EST 2024
+Success - Inscription 3 - TXID: c80e920867362719a9620bae3c9c0fb4f3eda2e7e75083ac0753d282b8f39209 - Sun Dec  1 15:33:45 EST 2024
+Success - Inscription 4 - TXID: 609da23a8917496d30a7c797c64f72e8092893e441d27fd1fed4625a4d754f0d - Sun Dec  1 15:33:50 EST 2024
+Success - Inscription 5 - TXID: 80b4d5455fd95495d544dcc188020943d88146437fe93d65d6be1c8d9c476cdf - Sun Dec  1 15:33:55 EST 2024
+Success - Inscription 6 - TXID: 392c90a25c05ac56df79c2ecf9a355aea9b663aaa3d0e83f037061db261006a1 - Sun Dec  1 15:34:01 EST 2024
+Success - Inscription 7 - TXID: 433992cc3852efe1609ca83a2c51ff7ce19dc74d1c4b1e4e5d848f0ab044802d - Sun Dec  1 15:34:06 EST 2024
+Success - Inscription 8 - TXID: 5692eab5dd597ab2a74049f3c6f595cc5bb1606f3ede49d424216c20af7753d0 - Sun Dec  1 15:34:11 EST 2024
+Success - Inscription 9 - TXID: 88e40716c9f195334aa42622ccbc9b6e6aa09680c13f1267c9d98b86f52ba1c1 - Sun Dec  1 15:34:16 EST 2024
+Success - Inscription 10 - TXID: e13d1de0b379523637da2dd03e9325b68622775f86af61893381a5e6ca249afd - Sun Dec  1 15:34:22 EST 2024
+Success - Inscription 11 - TXID: cab61096ecbac1c04ac53ee9ed7658b2f5f48fe8ade1d8c93f24a9b13519aec1 - Sun Dec  1 15:34:27 EST 2024
+Mempool full at inscription 12 - Sun Dec  1 15:34:32 EST 2024
+Success - Inscription 12 - TXID: 1303d28eda397c786221db105b8374560b88eed233c458104a1e07ce0437f13c - Sun Dec  1 15:35:43 EST 2024
+Success - Inscription 13 - TXID: 31d9ff2d78689f2433f4b0f2c6b18b621e47fdb2bd51debe71d33c6bd853d269 - Sun Dec  1 15:35:48 EST 2024
+Success - Inscription 14 - TXID: 15b99367b63b919f4cf7e5cc195ce91aea6cb475c96c719745fe3c5e46689a7f - Sun Dec  1 15:35:53 EST 2024
+Success - Inscription 15 - TXID: 7dd485fa6bff4ad5bd9360b42231c090e5b884fe6a3ff84369de294fdff176da - Sun Dec  1 15:35:58 EST 2024
+Success - Inscription 16 - TXID: 555fb58377d944da1be626515ffed7aec236a2ce9a97545c75da489510de8144 - Sun Dec  1 15:36:04 EST 2024
+Success - Inscription 17 - TXID: 340eb1105b01b90dd9e7defbd36211f310eb08fe3766334f159d52d82e176d62 - Sun Dec  1 15:36:09 EST 2024
+Success - Inscription 18 - TXID: f8f88d654639c3a090a6f4ba3937a04ceef065a7c774291306ba1ed40161063d - Sun Dec  1 15:36:14 EST 2024
+Success - Inscription 19 - TXID: 938d4c9506badf3f6f066d0e997f1e49771c0db4465e0bfa8937c1d3b92bb7f0 - Sun Dec  1 15:36:20 EST 2024
+Success - Inscription 20 - TXID: a9902b71f168a46535aa870cdb60907e270975c9506dfab5f8813431f57c98ed - Sun Dec  1 15:36:25 EST 2024
+Success - Inscription 21 - TXID: 624fa633f4fdcf9a201fc7a515e2f03224d1ad6996282ecd8ccc72f2d236a388 - Sun Dec  1 15:36:30 EST 2024
+Success - Inscription 22 - TXID: aa3997c1e05ca00d192466b9ea1ac23070af4ad0d10b108a7d3507518f47ed4c - Sun Dec  1 15:36:35 EST 2024
+Success - Inscription 23 - TXID: e5d870173c4789525a3641bdb41d7433b592fad10d4e29f96442ac46f9204c86 - Sun Dec  1 15:36:41 EST 2024
+Success - Inscription 24 - TXID: 0466157376cae9832ec453a901bd4a5cdfd52c27ebea4523b64c3d28d345be09 - Sun Dec  1 15:36:46 EST 2024
+Mempool full at inscription 25 - Sun Dec  1 15:36:51 EST 2024
+Mempool full at inscription 25 - Sun Dec  1 15:38:01 EST 2024
+Mempool full at inscription 25 - Sun Dec  1 15:39:12 EST 2024
+Mempool full at inscription 25 - Sun Dec  1 15:40:22 EST 2024
+Success - Inscription 25 - TXID: 524185dea32e7bf8cfe39330363f5e75991f6d6bfd91a517bd0052be7db98c60 - Sun Dec  1 15:41:32 EST 2024
+Success - Inscription 26 - TXID: 85cbd44a91c8cda6f746cf6bceaba9cfc4326c3f7353c6e6a40f8a0cf96931f6 - Sun Dec  1 15:41:38 EST 2024
+Success - Inscription 27 - TXID: 0198092fa684dfad4141ef5de757a088678772c10f519e874e16e9e76bd0c6b9 - Sun Dec  1 15:41:43 EST 2024
+Success - Inscription 28 - TXID: 8c6746594ce7f89ad38b5b3e1f661cdab96f7c3eb1cbfe053dc42fd7989947f7 - Sun Dec  1 15:41:48 EST 2024
+Success - Inscription 29 - TXID: f3fd7f8ddbfb0db5329cbffaf4e67f0be4c6c355223189be2703e9da2d8236b0 - Sun Dec  1 15:41:54 EST 2024
+Success - Inscription 30 - TXID: 7f6e1e2dc2ba5ecaf1eae59003b020565f26b779d202d358cdefbfec35fad9c8 - Sun Dec  1 15:41:59 EST 2024
+Success - Inscription 31 - TXID: c0e1f8c6a3ec8f62fde3ab08e7f84bde8b3ac0733c01573b15239553950003f0 - Sun Dec  1 15:42:04 EST 2024
+Success - Inscription 32 - TXID: 12ec90a4bd1d95c3dcf8ba5cf11e71175bf80fe0680e56dbec4ade1a2dfde272 - Sun Dec  1 15:42:09 EST 2024
+Success - Inscription 33 - TXID: bbccfbe2e1bd9cd7c44c9068e0bfdf727272457271122cecd7543c7bafb4877e - Sun Dec  1 15:42:15 EST 2024
+Success - Inscription 34 - TXID: cfdb68ea75dc7d92d53393f90ab4af009990a6b2a74ca2817ba4e8c9946f26a1 - Sun Dec  1 15:42:20 EST 2024
+Success - Inscription 35 - TXID: 335f9fae6bc67f8e65aac96f1963a5dfd85772145427cd2f61f6e5a8c19d6b6a - Sun Dec  1 15:42:25 EST 2024
+Success - Inscription 36 - TXID: 48340b2481692e6f2a5cbebc0339910c783e160897d2540c58b5c9a44c9f9352 - Sun Dec  1 15:42:30 EST 2024
+Mempool full at inscription 37 - Sun Dec  1 15:42:36 EST 2024
+Success - Inscription 37 - TXID: c4dde0e3c24fb9e3797e637c0ac7fd1da52228896c3b8a12714d43f3999d027b - Sun Dec  1 15:43:46 EST 2024
+Success - Inscription 38 - TXID: 131de2d23e2d11eb7993637e221684ef6884aadb334a4c25c552487b926be322 - Sun Dec  1 15:43:51 EST 2024
+Success - Inscription 39 - TXID: 702c01c245527213c12ff45a7ac6d67c70011349c9a5902f5abe01f75f440f00 - Sun Dec  1 15:43:57 EST 2024
+Success - Inscription 40 - TXID: 2e3515fa16b12a7f3aa1cf5d0dd8028217b0dcf160101f69e5c41d362ae53836 - Sun Dec  1 15:44:02 EST 2024
+Success - Inscription 41 - TXID: 682cc8bf135b2f650c10179c7577e3d1ddfac3d63b4ec00b5c00111b28d88cbb - Sun Dec  1 15:44:07 EST 2024
+Success - Inscription 42 - TXID: 45d1e0dd27c173e541bbbb639473bc3acaa59fa154870b07c273539a7e14ad9d - Sun Dec  1 15:44:13 EST 2024
+Success - Inscription 43 - TXID: 79da16e8654376137c5b8136cef656d817968abe72b64eb9cd66c0f6f03e35cd - Sun Dec  1 15:44:18 EST 2024
+Success - Inscription 44 - TXID: 6350df69412c7c6c42b2cf6c1a92b868b79947417274065264bcd97b1e093f04 - Sun Dec  1 15:44:23 EST 2024
+Success - Inscription 45 - TXID: e58f08e6a18585647cf5526060faf854801441d3b6565198fdc54e70e8d63932 - Sun Dec  1 15:44:28 EST 2024
+Success - Inscription 46 - TXID: 81f66a959037bc56e9a4a4c865452c4d4d72b85bab4a7f38792598d8030b899d - Sun Dec  1 15:44:34 EST 2024
+Success - Inscription 47 - TXID: c1d30957829609cb6e1a1821bd935773664e119d25e976a8b144867603043bbd - Sun Dec  1 15:44:39 EST 2024
+Success - Inscription 48 - TXID: f4969edeb0ba513497d66aec30ae276c69b7dca245131488768a3a0798041c9a - Sun Dec  1 15:44:44 EST 2024
+Mempool full at inscription 49 - Sun Dec  1 15:44:49 EST 2024
+Mempool full at inscription 49 - Sun Dec  1 15:46:00 EST 2024
+Success - Inscription 49 - TXID: 68da396f2d12eb63c5bd0c41547839ce598ece4264b333242705004e94c4591e - Sun Dec  1 15:47:10 EST 2024
+Success - Inscription 50 - TXID: b59a2597d8727f4f6f7fa2098c3c8af0582e0358eb076cd39c0431f2216052e8 - Sun Dec  1 15:47:15 EST 2024
+Success - Inscription 51 - TXID: 4ad770e25c088ecdd7e1c11b7ca8852636dc8ab8d1293be147fe5fbf1816cb59 - Sun Dec  1 15:47:21 EST 2024
+Success - Inscription 52 - TXID: 923a672ac60d6a8d566ff5e2262573b49c2088ce228a068e5bf1a64ab48b18eb - Sun Dec  1 15:47:26 EST 2024
+Success - Inscription 53 - TXID: f70cb5d9156691415e8ff5edee5b512288264c2790b95656ae361798300db628 - Sun Dec  1 15:47:31 EST 2024
+Success - Inscription 54 - TXID: c72ec210e7101272c7e8a0406c48244c3ae3ecc32606b35a541e30270c7c6b37 - Sun Dec  1 15:47:36 EST 2024
+Success - Inscription 55 - TXID: 4ecf156a74f0429d2ca900254f41719935cb867c1fea80fe8e3d8407249384df - Sun Dec  1 15:47:42 EST 2024
+Success - Inscription 56 - TXID: f6a99bb47b2afd03a5e0ef4bdcf8fc4b44f077d693332dd7099ead281f1b0cc3 - Sun Dec  1 15:47:47 EST 2024
+Success - Inscription 57 - TXID: 73f795f7e2ce59116c20a1a1c030450c5dfd4d2d9d58cc1af129f6fedabdc938 - Sun Dec  1 15:47:52 EST 2024
+Success - Inscription 58 - TXID: adcc7a39868c65e16193bedd441ad4ae2b5bfbf283ad537a402cdde2c49e81fa - Sun Dec  1 15:47:58 EST 2024
+Success - Inscription 59 - TXID: cda499a2e2330ca0cc03140b5a9cca1fdaa7b02ea8fa01ff52d2d63ead8d3530 - Sun Dec  1 15:48:03 EST 2024
+Success - Inscription 60 - TXID: 080761a8874b6d57cd8ab9cebcb2acfecb5051748ac64c9833f1b7d40b93c864 - Sun Dec  1 15:48:08 EST 2024
+Mempool full at inscription 61 - Sun Dec  1 15:48:13 EST 2024
+Success - Inscription 61 - TXID: 5fdfe7f0ab39f3bc5c325139f513eade724a6a9e06f1441f24209ad24a6454b1 - Sun Dec  1 15:49:24 EST 2024
+Success - Inscription 62 - TXID: 48f2f61ac43eb2e6ccad04f4eb50f3931ee6a6e4d431e86b202b9407842986b3 - Sun Dec  1 15:49:29 EST 2024
+Mempool full at inscription 63 - Sun Dec  1 15:49:34 EST 2024
+Mempool full at inscription 63 - Sun Dec  1 15:50:45 EST 2024
+Success - Inscription 63 - TXID: 950c717a9216d3f23674e49a25b89b5faf5742820e5f111b24d795e84f00fee1 - Sun Dec  1 15:51:55 EST 2024
+Success - Inscription 64 - TXID: 3de6e2d1b0c01e85f2ecaa97b61885060704c0efd0fa5b4148218b83d623e6a2 - Sun Dec  1 15:52:00 EST 2024
+Success - Inscription 65 - TXID: 59a06df784a01a4a1ce989719dbfe523b0e862b27ecb1b4cfcfe94f9972c8dd6 - Sun Dec  1 15:52:05 EST 2024
+Success - Inscription 66 - TXID: c167ccaaa3835e0a3ccdb9af2ffa625f340e51cbc04aeb1cdc9af9218342a147 - Sun Dec  1 15:52:11 EST 2024
+Success - Inscription 67 - TXID: 26f5268646b14fad4c16334e9036ac795f93cffa6464e2f4b6419d67c1f72c39 - Sun Dec  1 15:52:16 EST 2024
+Success - Inscription 68 - TXID: ca2001d546b63271b243368d36044d8361c0764ae5bfa8b9439b2b3d2171d321 - Sun Dec  1 15:52:21 EST 2024
+Success - Inscription 69 - TXID: 5c4938a78b51ec23ec79fda794c95f7820c10c1cdb52685809cd88be9537e875 - Sun Dec  1 15:52:26 EST 2024
+Success - Inscription 70 - TXID: 34b012a9cf8baac44f5bacf716da635a9b71afab72ae5f8d7f77f487ef0410eb - Sun Dec  1 15:52:32 EST 2024
+Success - Inscription 71 - TXID: 51891ec5667cf70ec73a27c3e78a3bf861dfb13f5d8c1df7657ad76ef60b61a4 - Sun Dec  1 15:52:37 EST 2024
+Success - Inscription 72 - TXID: f77400d32cdb5f4c555cd2f7bc72267793da3d837e2fa3ea206eb863da66f5ff - Sun Dec  1 15:52:42 EST 2024
+Success - Inscription 73 - TXID: e9c6eff0749cb8c799b167d9bec0f88098e76ec93207c37a6f682724e98e88c6 - Sun Dec  1 15:52:48 EST 2024
+Success - Inscription 74 - TXID: e5d67c9d159e9dd02637e530c9625d0d098c92145379283d1479a0722abe64e5 - Sun Dec  1 15:52:53 EST 2024
+Mempool full at inscription 75 - Sun Dec  1 15:52:58 EST 2024
+Mempool full at inscription 75 - Sun Dec  1 15:54:08 EST 2024
+Success - Inscription 75 - TXID: 852862bac0ca754d9ee121f7a9d392373ceffa08d5d73600cb78a97f125f1da0 - Sun Dec  1 15:55:19 EST 2024
+Success - Inscription 76 - TXID: ae5b4f86555169339cf6fe09fce0ef888e0601f0b48090c66b503c042678138c - Sun Dec  1 15:55:24 EST 2024
+Success - Inscription 77 - TXID: 82483746d255dbbaecbfe7185a37f5b857335b7c83e3f43e99a78672d84bd7fc - Sun Dec  1 15:55:29 EST 2024
+Success - Inscription 78 - TXID: ffd2efb1542cef73b72a85fd79d231c367ccf251764a57c6eb4b516063adf6db - Sun Dec  1 15:55:35 EST 2024
+Success - Inscription 79 - TXID: 4f3675b87bfbb0691ae1b768788bfd373f93a6ee4c6877772845a4c2918bc2a0 - Sun Dec  1 15:55:40 EST 2024
+Success - Inscription 80 - TXID: 146e37f82c58df58c25c95023602fb56d396740cd14a0d0418b72839038eea20 - Sun Dec  1 15:55:45 EST 2024
+Success - Inscription 81 - TXID: 801513ece924bfa650bcc66c459c9aea41422c850fc794b006bf90a26ad444f4 - Sun Dec  1 15:55:50 EST 2024
+Success - Inscription 82 - TXID: 57ff55a809695df3f7427aab55d7859ce6aeec18b8edca9db8618d9137e882b1 - Sun Dec  1 15:55:56 EST 2024
+Success - Inscription 83 - TXID: 392a5e22eeb3a5dda4b9560f61bf4b80ab5799f4d4d6e9207a4789cc6a4fa473 - Sun Dec  1 15:56:01 EST 2024
+Success - Inscription 84 - TXID: 00dc7df3c6fd6daa9731db1f5b00f1d556d77797be9c9669cdc8ae900bfdcfa8 - Sun Dec  1 15:56:06 EST 2024
+Success - Inscription 85 - TXID: 6f1d5bb9fc84791cc4bbe850ae579bf3b89a2ca184cf06ff170dcef2d34fd29b - Sun Dec  1 15:56:12 EST 2024
+Success - Inscription 86 - TXID: 54cdd6a80927e810de883adaf4d64385a4554ff04c22a071457e583f9acbaac6 - Sun Dec  1 15:56:17 EST 2024
+Success - Inscription 87 - TXID: 940a83b419753eb58fc16317823b552ec2b98a05b428f885c26c18937c8e148f - Sun Dec  1 15:56:22 EST 2024
+Success - Inscription 88 - TXID: a3756a5fd23a663543b9892251cd31b9b587eda2965353faa7a71c2ced336ea9 - Sun Dec  1 15:56:27 EST 2024
+Success - Inscription 89 - TXID: 1e1160bbb823242ee8c6ff8e0633f29b54702ccbcf22609e01c60d9933e9bad7 - Sun Dec  1 15:56:33 EST 2024
+Mempool full at inscription 90 - Sun Dec  1 15:56:38 EST 2024
+Success - Inscription 90 - TXID: 677ffe7cdfd24f1542fa147c3294e68b97fc52dad258867cd8cf1af7ce62c077 - Sun Dec  1 15:57:48 EST 2024
+Success - Inscription 91 - TXID: c25c1dfc050ea526d82e5a7d31efc9eafef83d65d0837b69499780f0595d547d - Sun Dec  1 15:57:54 EST 2024
+Success - Inscription 92 - TXID: ff42059132829ae491bc223c8ddbbcb43f43ca73455c8a33c7c5950df84eda18 - Sun Dec  1 15:57:59 EST 2024
+Success - Inscription 93 - TXID: c9d97754977739fbda77022ed67dec6e246ec2b408534543a85864d1cd8e76bf - Sun Dec  1 15:58:04 EST 2024
+Success - Inscription 94 - TXID: 1f44e06a7746abe175a5dbe69f8afdd7237a798654b1b5f6e2de40efed6badd4 - Sun Dec  1 15:58:09 EST 2024
+Success - Inscription 95 - TXID: f3d800314b91c680bd17190b7247adf98cc4652cd78e5342b81e2591687a6566 - Sun Dec  1 15:58:15 EST 2024
+Success - Inscription 96 - TXID: 25e0f006bd5dc2ffbb3fb6a3269eb754ecc1ba1257804ef826cb5eddd7a709d6 - Sun Dec  1 15:58:20 EST 2024
+Success - Inscription 97 - TXID: d79a23cedba0b0936de9f0000633a081b55a1c2421317097eb839f271270b971 - Sun Dec  1 15:58:25 EST 2024
+Success - Inscription 98 - TXID: cf0e6511adb1332be09895d485c900dccce80ecf590554337b940e859b6b2456 - Sun Dec  1 15:58:31 EST 2024
+Success - Inscription 99 - TXID: cfd94f931bd502bbcd061b272d24eaaf5848703257efaf7ccba7f57e95832856 - Sun Dec  1 15:58:36 EST 2024
+Success - Inscription 100 - TXID: 218d777b06f79544ec51875c20096fb4fe674fd4d530f431e406f1dab4b0bd86 - Sun Dec  1 15:58:41 EST 2024
+Success - Inscription 101 - TXID: d5189cbd4dc134ccf43a90c6f9cfce8c764b1e5713bcb20bb4c0f604285d569f - Sun Dec  1 15:58:46 EST 2024
+Mempool full at inscription 102 - Sun Dec  1 15:58:52 EST 2024
+Success - Inscription 102 - TXID: c484d9f52996b1215dd2c3e4fba1d051bcf709269934d85a6647762f127a7e5b - Sun Dec  1 16:00:02 EST 2024
+Success - Inscription 103 - TXID: 69fb67d904fb4de6ec5ee722326f3481d02abd6c59e657265aa4b9b6345ed846 - Sun Dec  1 16:00:07 EST 2024
+Success - Inscription 104 - TXID: 481677c749a1357cf4ad4a35f6bb0d7d8203cff7b985b72f2b3d0da610f35713 - Sun Dec  1 16:00:12 EST 2024
+Success - Inscription 105 - TXID: fb8186862e3940c8b8b531753fceb75195d12d113b9512557312b2e89690f2ad - Sun Dec  1 16:00:18 EST 2024
+Success - Inscription 106 - TXID: c9507b4fc156baa5028b978139868ee0e946dc7da1d3e14ecdd774da1c3016e5 - Sun Dec  1 16:00:23 EST 2024
+Success - Inscription 107 - TXID: 54142aae77a099e3a64389066eee1731aedd103014eb804b7804059d52048e66 - Sun Dec  1 16:00:28 EST 2024
+Success - Inscription 108 - TXID: fe71973b6d64f7ecf6b95e9e6d308a3ecd0e2f54b49e55f0d133b1efa064f420 - Sun Dec  1 16:00:34 EST 2024
+Success - Inscription 109 - TXID: de2924751d35742e5373fbbc7410d67ed27cd4a9a003b02f44ec3216ff5f263a - Sun Dec  1 16:00:39 EST 2024
+Success - Inscription 110 - TXID: eafb709e61fa50c7464d9444ee9f770a32182b8d64e008df05cc49aac2278fdc - Sun Dec  1 16:00:44 EST 2024
+Success - Inscription 111 - TXID: e31b8a4ea0bff25cb99edced60344820b5a7721618566c950f9a4329693fb992 - Sun Dec  1 16:00:49 EST 2024
+Success - Inscription 112 - TXID: 424784f51b5839eefa6a06b9bdfa5b76aa8d3ee04bf3dd82027404bc6baa3a3e - Sun Dec  1 16:00:55 EST 2024
+Success - Inscription 113 - TXID: d60983b73e8f7d72a77471a2612ad5d73bf9f07064e8a173ae405b4ab6175ade - Sun Dec  1 16:01:00 EST 2024
+Mempool full at inscription 114 - Sun Dec  1 16:01:05 EST 2024
+Mempool full at inscription 114 - Sun Dec  1 16:02:16 EST 2024
+Success - Inscription 114 - TXID: 47877b05b5bf40750ef6f9ce5fc4294b92faa42d806afce9946cc699e6c081fe - Sun Dec  1 16:03:26 EST 2024
+Success - Inscription 115 - TXID: 520b478dedaf4d06b62cab13b089bb48ca3c0eed69b73fba8b8646f0457c385a - Sun Dec  1 16:03:31 EST 2024
+Success - Inscription 116 - TXID: 0177b1a7230eb244f0461b9b58460ddc8a4736f0f1f8887296860c01a0173282 - Sun Dec  1 16:03:36 EST 2024
+Success - Inscription 117 - TXID: 0b962638dd0f670a1c3e5c0baf7ff537d1eae5184a212aa4beb89764d9904396 - Sun Dec  1 16:03:42 EST 2024
+Success - Inscription 118 - TXID: 0ebe0e5aa56d5c03282de153cdb8cbd30d6e6fb074de97adfa1b8a1d3956c9c7 - Sun Dec  1 16:03:47 EST 2024
+Success - Inscription 119 - TXID: a1ebfdeafe967bcda498c87e7178005b3135acb9a628e269a2c749adb96e0ae0 - Sun Dec  1 16:03:52 EST 2024
+Success - Inscription 120 - TXID: 7e2d2b7a05fa77b8b00a45e6df25300014b50efe1e3ebb9b9ef55a1143c84883 - Sun Dec  1 16:03:58 EST 2024
+Success - Inscription 121 - TXID: 278f84fd546b607d2dc09d797fc2e903f26cfb150f53a2b3c873db962979ce3d - Sun Dec  1 16:04:03 EST 2024
+Success - Inscription 122 - TXID: ad70864dcc24cf907f2d9c4b94ed217e2accbca0fdbc5df197aa51fd88726b51 - Sun Dec  1 16:04:08 EST 2024
+Success - Inscription 123 - TXID: 0114b5984b334c7029a53bce5628c9b473345927afcf982417b26b4127e5cbc7 - Sun Dec  1 16:04:13 EST 2024
+Success - Inscription 124 - TXID: 146223acff9d2e7d371eccd87fc7b168003c36dbb3a7c4d36cdc023b3158602b - Sun Dec  1 16:04:19 EST 2024
+Success - Inscription 125 - TXID: 13b3be6506932048a5b059a78d0f8113fff0413275ff1b61a88bfcb8306d8607 - Sun Dec  1 16:04:24 EST 2024
+Mempool full at inscription 126 - Sun Dec  1 16:04:29 EST 2024
+Success - Inscription 126 - TXID: 57ba8b9802ff1617505d9c24c480ce2912c5d0f22e4c91fdba981442cfa9db14 - Sun Dec  1 16:05:40 EST 2024
+Success - Inscription 127 - TXID: a953a275be116f5370130279a6a3a491c87a6e985cc1f8508c84099ea6e3fc32 - Sun Dec  1 16:05:45 EST 2024
+Success - Inscription 128 - TXID: f0a6d1608af4fe392077787db2321ffc8cae73cbe3e4578f87e8831e1885e5aa - Sun Dec  1 16:05:50 EST 2024
+Success - Inscription 129 - TXID: 59ee54d727c710819e065e74f6ebcb40c58c12d0201a3d1237c8b59cedf04aa6 - Sun Dec  1 16:05:56 EST 2024
+Success - Inscription 130 - TXID: ce291757fb2af8ca45e5d6f264191c48f87361ee8dcebec14f8fa352faf3adeb - Sun Dec  1 16:06:01 EST 2024
+Success - Inscription 131 - TXID: d6799cd7fcfd7c65a20454d742437fec86060144a436cb4fe025b5fd9ac1fc0c - Sun Dec  1 16:06:06 EST 2024
+Success - Inscription 132 - TXID: 57057c37461f92ff0f2bc1dfef8784dff3018644d100361ea425ce55cd90fcde - Sun Dec  1 16:06:11 EST 2024
+Success - Inscription 133 - TXID: 1d9c27151a15fca8c60f1537d11e3accc1a71844b4629a8c9e5bdad0b28db837 - Sun Dec  1 16:06:17 EST 2024
+Success - Inscription 134 - TXID: 1f027150deb8be8049d2d52175f91083100424ee7bde7a0a5232c7353ff9091d - Sun Dec  1 16:06:22 EST 2024
+Success - Inscription 135 - TXID: 0add18021ebb2f83f2491ab1ab7e7c6906dc144293f221cf03d27140613602cb - Sun Dec  1 16:06:27 EST 2024
+Success - Inscription 136 - TXID: 5d67e035d1ef1cf4a83c19b493769dbd26e3f72a3b3ebbe23dc956e9a5052662 - Sun Dec  1 16:06:32 EST 2024
+Success - Inscription 137 - TXID: 30321734754c9a86458bf6d855e795491f11fd1488e4f35d3f3598546c77d418 - Sun Dec  1 16:06:38 EST 2024
+Mempool full at inscription 138 - Sun Dec  1 16:06:43 EST 2024
+Mempool full at inscription 138 - Sun Dec  1 16:07:53 EST 2024
+Mempool full at inscription 138 - Sun Dec  1 16:09:04 EST 2024
+Success - Inscription 138 - TXID: e8680d72a497c4ec58d9f272a3a40d903b3a0f78fd287c9fb72412d372fab484 - Sun Dec  1 16:10:14 EST 2024
+Success - Inscription 139 - TXID: b227816c12bb5b890e619a303e1a7368ae9f4d103b9e6c3d0007a80662f98b9c - Sun Dec  1 16:10:19 EST 2024
+Success - Inscription 140 - TXID: 3fc5f75ca9b54893e789d9ddd62168b85eefec16f56e24c1106788218e17149b - Sun Dec  1 16:10:24 EST 2024
+Success - Inscription 141 - TXID: 078bd91d0d7c5f71398121f97c4e99d4e1d6692d73938b3034ccea24d9c8c325 - Sun Dec  1 16:10:30 EST 2024
+Success - Inscription 142 - TXID: a177dc9b4cd82f86e302d7170cb40274fd013eae29de2ee85f8a418d2e6e480a - Sun Dec  1 16:10:35 EST 2024
+Success - Inscription 143 - TXID: 8a6c294e2d44c07f987bd9d77c4c400173da84545c326ba9496153cc6a24207e - Sun Dec  1 16:10:40 EST 2024
+Success - Inscription 144 - TXID: 30f3135c90a07602b94ddc60eb97c2d3ac2e94bf338f8310c99ed2fc1a649a45 - Sun Dec  1 16:10:45 EST 2024
+Success - Inscription 145 - TXID: 67239479045b08fe4084c2b546d20bf191ffd5b3bef14ef8eb2edd8259e2754c - Sun Dec  1 16:10:51 EST 2024
+Success - Inscription 146 - TXID: 26b96df5816aec0a568cbc290ce396a414c34d93fbdcc42ebb57634cb26ffe7a - Sun Dec  1 16:10:56 EST 2024
+Success - Inscription 147 - TXID: 8b43b69f8466e70b8861d8b3a095f56afac81f10cfddb784a1d93b1ed36bc4aa - Sun Dec  1 16:11:01 EST 2024
+Success - Inscription 148 - TXID: 012dd88d8da169d0958202c451efd2b6994f45ef1d6c90fb473f77b97aba3383 - Sun Dec  1 16:11:07 EST 2024
+Success - Inscription 149 - TXID: c42fbf77ab3c9d31aa6031e99ebdda5118c4f00aa8b7cfb919501cb732e6de23 - Sun Dec  1 16:11:12 EST 2024
+Success - Inscription 150 - TXID: 9fb1857e568962895b1f69dfc037608c3750675f1fdea8bb55e28e49769e41fa - Sun Dec  1 16:11:17 EST 2024
+Success - Inscription 151 - TXID: 887aa76d131a4349b14a948b0fa9e58b09a0cf8d78be94943b30faba2f459b7c - Sun Dec  1 16:11:22 EST 2024
+Success - Inscription 152 - TXID: 16bb4af202b96966b2ac7cf7158edb4a332ac87d45b0fedba028c5ff0cec2ecf - Sun Dec  1 16:11:28 EST 2024
+Mempool full at inscription 153 - Sun Dec  1 16:11:33 EST 2024
+Success - Inscription 153 - TXID: af9f902769fca1ac61f886d50f55f92a7d40d4eb2317fca0d4643a22f7933b08 - Sun Dec  1 16:12:43 EST 2024
+Success - Inscription 154 - TXID: d498c3e3635b271dd7b76a8748cfc75417344374851f829ff179df8fc5d9f20a - Sun Dec  1 16:12:49 EST 2024
+Success - Inscription 155 - TXID: 2f3f02d54505a6753801f2eafab68527e02f0e944a9f72e462df03bff8ce106c - Sun Dec  1 16:12:54 EST 2024
+Success - Inscription 156 - TXID: 7b6e4b55686e1878859aa90964b2aa21d8a40e47d40b0c0e5ed80a388493e9e7 - Sun Dec  1 16:12:59 EST 2024
+Success - Inscription 157 - TXID: ca820ae2d1f29ce47c42446f4c91b2183fa0130d0e55c9c8b5433b569506aa0f - Sun Dec  1 16:13:04 EST 2024
+Success - Inscription 158 - TXID: 317b92c5ea4c6e601f6adac7be18c2613617e7ef5414446ef155825ad7abbfd2 - Sun Dec  1 16:13:10 EST 2024
+Success - Inscription 159 - TXID: d837458b1de7ca80a6975fa9d3a7e9536a865beeca67b641ea06cf7ece59988a - Sun Dec  1 16:13:15 EST 2024
+Success - Inscription 160 - TXID: e1b278437953519e3fcb2b299a0853371703a8098431ac707942ebe62441b936 - Sun Dec  1 16:13:20 EST 2024
+Success - Inscription 161 - TXID: 25f8f19dc193a9582fcef394363d1ba6ca562ad7c7f331cd035a60a41e9ae204 - Sun Dec  1 16:13:26 EST 2024
+Success - Inscription 162 - TXID: da5992df6a8d15db1c4aba128d784277bb16faae09f087ca08895ab1dca4d67e - Sun Dec  1 16:13:31 EST 2024
+Success - Inscription 163 - TXID: 1e483ab17416233c30cc0858bbec01536e94011cba241ff883d523e5dcadaa9e - Sun Dec  1 16:13:36 EST 2024
+Success - Inscription 164 - TXID: c30dd50e96a6caed642989ec576cbe5c8df2232b3184d1b2ef0771fae68e2e10 - Sun Dec  1 16:13:41 EST 2024
+Success - Inscription 165 - TXID: 0640e5ba1b7ca4934ccff12da2f815afda090992b9b11aa576b19ea7c28f5e65 - Sun Dec  1 16:13:47 EST 2024
+Success - Inscription 166 - TXID: f0e5bcb6609213af22f0f61597c31a524228b7c9ecc3b2fd4c092b388978be17 - Sun Dec  1 16:13:52 EST 2024
+Mempool full at inscription 167 - Sun Dec  1 16:13:57 EST 2024
+Success - Inscription 167 - TXID: d7cbfeb465db98fc7eb15df48181b469090770ef4474dc1787f05808fdf43d3b - Sun Dec  1 16:15:08 EST 2024
+Success - Inscription 168 - TXID: ad565bf558f15a2cc690712d046bce33b27ecb3cd2a31aae0bfc4aabfdcfe52f - Sun Dec  1 16:15:13 EST 2024
+Success - Inscription 169 - TXID: a13fbb52c4764e8e31106565de7a2b3e686fbbcbadd1cc197e884dc0cc1992e9 - Sun Dec  1 16:15:18 EST 2024
+Success - Inscription 170 - TXID: 78d800bd94d5f2b31d15cdf8bdcd4f0f4e8d30fc4ddd6d20feb34a031c469c2b - Sun Dec  1 16:15:23 EST 2024
+Success - Inscription 171 - TXID: 931a93d96d8b86e23e0f1e0b97e0800aff3362c0506cce495be0886fe2ee0c7e - Sun Dec  1 16:15:29 EST 2024
+Success - Inscription 172 - TXID: 611c2f33c542607a042861716b74cdb2ed1af8ddb5f797e81a0e67b72653a5c2 - Sun Dec  1 16:15:34 EST 2024
+Success - Inscription 173 - TXID: 49930aea0a4a73d1a25ed927cae94ad03d4fa8d6f76fa1d237ca35e63faae43b - Sun Dec  1 16:15:39 EST 2024
+Success - Inscription 174 - TXID: 33694047d13c64e53aeff9974ce0db7b52cf9e76e33d25d7066c8f7f1c945f4e - Sun Dec  1 16:15:44 EST 2024
+Success - Inscription 175 - TXID: d0373b93e1a515b7a73a2837900e3e817c9ff9064bf748e1ec5306610e588c70 - Sun Dec  1 16:15:50 EST 2024
+Success - Inscription 176 - TXID: 93c20d48b2a1a10d0e3813f1ba07e9eb4ffebf460a4c3212533b147fc897343e - Sun Dec  1 16:15:55 EST 2024
+Success - Inscription 177 - TXID: f1456b1f00a212a130ec651a1aecd603a8434d32f0d558511b1204ed0a498f41 - Sun Dec  1 16:16:00 EST 2024
+Success - Inscription 178 - TXID: 4f142100c9039485ad46d4c923827c111118f464af67685aecfe23b64ca72cc7 - Sun Dec  1 16:16:06 EST 2024
+Mempool full at inscription 179 - Sun Dec  1 16:16:11 EST 2024
+Mempool full at inscription 179 - Sun Dec  1 16:17:21 EST 2024
+Mempool full at inscription 179 - Sun Dec  1 16:18:31 EST 2024
+Mempool full at inscription 179 - Sun Dec  1 16:19:42 EST 2024
+Success - Inscription 179 - TXID: 54b1c69a0f2e3e0f7915160d92844e7fe048ea256f59d333f0e363baa61c5990 - Sun Dec  1 16:20:52 EST 2024
+Success - Inscription 180 - TXID: de1482ca9eb44d269d191790c2e8e11981cbadddbe0459f308f48b7896f450c9 - Sun Dec  1 16:20:57 EST 2024
+Success - Inscription 181 - TXID: 63e1aba3913276906df97faad06ea39ba220f99d339f22634b39cd72dd0d487c - Sun Dec  1 16:21:03 EST 2024
+Success - Inscription 182 - TXID: a49f94c61edf01cabca422de4a64a74d8c4a02408e5fcc21444a436b8ce5fda1 - Sun Dec  1 16:21:08 EST 2024
+Success - Inscription 183 - TXID: b261421d3cc5d86af8b44cd52ba527ef1426fcc7a123b2891e92dc8896bb69a4 - Sun Dec  1 16:21:13 EST 2024
+Success - Inscription 184 - TXID: b67e540ee38d97f4e94f80045a872f3af8b6f205694ac613450a0b589a5ffd03 - Sun Dec  1 16:21:18 EST 2024
+Success - Inscription 185 - TXID: efe2167ea30a0966f57ca067688b47e42731fd0767ef9dc78e0a3807246709ab - Sun Dec  1 16:21:24 EST 2024
+Success - Inscription 186 - TXID: d679e9e49e6e2f5d50e571299e4d4253909353843286932ca9dc551d2bc56c2e - Sun Dec  1 16:21:29 EST 2024
+Success - Inscription 187 - TXID: 9c41004e81b7b428044daf0b0f45fd71561314863f94e5e74b00b71eb55d5481 - Sun Dec  1 16:21:34 EST 2024
+Success - Inscription 188 - TXID: a33d31c899d107425faf9b3fb291154b4658621b9368639eca61a4bde0fc5dcd - Sun Dec  1 16:21:39 EST 2024
+Success - Inscription 189 - TXID: cb96260096b8c047f3d5eb7647d144c3c9cf2db7d922d093158091b0dba2402e - Sun Dec  1 16:21:45 EST 2024
+Success - Inscription 190 - TXID: 4301020a97cdccfffbea3e9e047960f961ad3cce2752ae559f43542346fc5b84 - Sun Dec  1 16:21:50 EST 2024
+Success - Inscription 191 - TXID: 6a4d6f1b4d9d961333417c4da22de63d229f8cbdf7fca2ad5ea86c59e9e35a2c - Sun Dec  1 16:21:55 EST 2024
+Success - Inscription 192 - TXID: de009266a64d0fed0d259f05cef13e12f751e9367d7e632c63e016124aebe830 - Sun Dec  1 16:22:01 EST 2024
+Success - Inscription 193 - TXID: c5c5f9033777f68b5d87f11a73101a5cb40589b5e056a58cf71dd64b2596b85a - Sun Dec  1 16:22:06 EST 2024
+Success - Inscription 194 - TXID: 663dbdcceb0cda2da4ff8fe411c2c8c9a25f93f06bcf1907734c072cfcfdac4b - Sun Dec  1 16:22:11 EST 2024
+Success - Inscription 195 - TXID: d2bd8965452704bf9a130aa54ffb928e9f7c390dcb6145f99eef8b7d5898562f - Sun Dec  1 16:22:16 EST 2024
+Success - Inscription 196 - TXID: 3da8503e5d85132f710765139ec3383f4819471f3dd1a827b4c1679456408819 - Sun Dec  1 16:22:22 EST 2024
+Success - Inscription 197 - TXID: 7c7a5dcb24d78fd011f5c9204291948afeeaf9338688e5fa3395f58ffc565d45 - Sun Dec  1 16:22:27 EST 2024
+Success - Inscription 198 - TXID: fcdf2a06cdc72db0c4ddca2d901dc1fd7d313fa4c78a56b0648d4b7293bed132 - Sun Dec  1 16:22:32 EST 2024
+Success - Inscription 199 - TXID: b8810538077563177581858ab69046e07d3dec264b9ce7e0fb9459449c820b38 - Sun Dec  1 16:22:38 EST 2024
+Success - Inscription 200 - TXID: 3170194eb0729aa711ce6471b4e4736a4741a06592bb322141f30af44a8b2a8b - Sun Dec  1 16:22:43 EST 2024
+Mempool full at inscription 201 - Sun Dec  1 16:22:48 EST 2024
+Mempool full at inscription 201 - Sun Dec  1 16:23:58 EST 2024
+Success - Inscription 201 - TXID: 47ed30ac8c79b1959b3072d560cb6e0a6b407b9a1672a3ec68eed638eacf9c7e - Sun Dec  1 16:25:09 EST 2024
+Success - Inscription 202 - TXID: b9f68da59faab25a4c338cd12f0f01191245e11869235fdcf82a0392e63e9c70 - Sun Dec  1 16:25:14 EST 2024
+Success - Inscription 203 - TXID: e8e4285f0ca72a2103400e5a1111b96416eb3f76df542b7c8cbc4f569711a633 - Sun Dec  1 16:25:19 EST 2024
+Success - Inscription 204 - TXID: 62265c308336a9c6fcc6acd03361f243919eabb2a455a40c5f8b1aaac51214d7 - Sun Dec  1 16:25:25 EST 2024
+Success - Inscription 205 - TXID: 5ff08ad3f2f08efaaaf20bc41e3a97390cba7a35e921c4e93a82ad21e3ea8897 - Sun Dec  1 16:25:30 EST 2024
+Success - Inscription 206 - TXID: bc04988e52957b7615b7596c18904cf175b731f1b01c6acf28250b1660e90957 - Sun Dec  1 16:25:35 EST 2024
+Success - Inscription 207 - TXID: 4c3ba5d9ce605e0e70221eb77a607feddf2338d1dbf38a1d3d969c606ae6758b - Sun Dec  1 16:25:40 EST 2024
+Success - Inscription 208 - TXID: ce695678822fd2b64cc7088011c0db692d68c0831112628fabc9917adf4493ba - Sun Dec  1 16:25:46 EST 2024
+Success - Inscription 209 - TXID: 4a3875df67f94a95df6a44376e7a5f832683c2146b4be1b235e7466b31dacd40 - Sun Dec  1 16:25:51 EST 2024
+Success - Inscription 210 - TXID: a60db30ce4d5c9d831ccb6be9e218b0dd24d9fe98601646bd7d9c1f35a8c969c - Sun Dec  1 16:25:56 EST 2024
+Success - Inscription 211 - TXID: 894ed0cce8cecccc57cbdd5a572bfdb49c586a8f23899296ad259cd9dfc5e7f3 - Sun Dec  1 16:26:01 EST 2024
+Success - Inscription 212 - TXID: 70ae5ba3c17b4f691f2782a9dcca7b65c01989be30fd4f4eab403d0c0d8d28e3 - Sun Dec  1 16:26:07 EST 2024
+Mempool full at inscription 213 - Sun Dec  1 16:26:12 EST 2024
+Success - Inscription 213 - TXID: e5c77d5faf01e266c33a249980e468e73dd527c6c0bc4d790cd323be364b8865 - Sun Dec  1 16:27:22 EST 2024
+Success - Inscription 214 - TXID: d583656353c4d4a18f62f6708e86bc5da44818207cfa90d28b6af06ca8047f53 - Sun Dec  1 16:27:28 EST 2024
+Success - Inscription 215 - TXID: 91236d5bada66162711e90cd50ff598e36e870c560656f03a4d892d3924bd5ee - Sun Dec  1 16:27:33 EST 2024
+Success - Inscription 216 - TXID: 4d3e2405c60ec01fea269a5e896d296545cb0013872d6d8d50154b0fbfe93bc5 - Sun Dec  1 16:27:38 EST 2024
+Success - Inscription 217 - TXID: 899d4b81706b538fb53d174c04f3d862235d4bb0ade7c8b6f1e094f0b7cb569b - Sun Dec  1 16:27:43 EST 2024
+Success - Inscription 218 - TXID: f72df39914022011c8abfeff52afefadfcdaed1cb1a51711f27f599f474326c2 - Sun Dec  1 16:27:49 EST 2024
+Success - Inscription 219 - TXID: 350a344c9c397af5e371dfa0d12a43956c6d3e6e57eb72606e7cafee8b33f746 - Sun Dec  1 16:27:54 EST 2024
+Success - Inscription 220 - TXID: 9007f7e956f857f66023776fa520cae2a3f05d2c39339a1e917e5c51cd579bb3 - Sun Dec  1 16:27:59 EST 2024
+Success - Inscription 221 - TXID: aa1136b8404996ed690a3f6f689bf5e298df24f19bd1d3de679e454a4d98496f - Sun Dec  1 16:28:05 EST 2024
+Success - Inscription 222 - TXID: 371304281ddf9303c844cb1ae808129e9bd5f2e244433851df7c2ea262cc8b96 - Sun Dec  1 16:28:10 EST 2024
+Success - Inscription 223 - TXID: 68ad2e4680c836c76c36e476ed7e1a19cba433fe260c499a27c48257dbd67c40 - Sun Dec  1 16:28:15 EST 2024
+Success - Inscription 224 - TXID: 27cd0665e0913e4886862b70466d8693f4e7ada50e85ab8257e6a4a00c6e02f3 - Sun Dec  1 16:28:20 EST 2024
+Mempool full at inscription 225 - Sun Dec  1 16:28:26 EST 2024
+Success - Inscription 225 - TXID: b55ebf81200dd0d23ea914fd5271c5f43bfcf965ba5c72b01be759e16db76e73 - Sun Dec  1 16:29:36 EST 2024
+Success - Inscription 226 - TXID: 056cd1ca3cd9dedde5fc8e01829fa20f99c46b6fdff5516882c6b7e5a8f1028b - Sun Dec  1 16:29:41 EST 2024
+Success - Inscription 227 - TXID: 54fb37f3bf3c320b24c545019e1ff57d97f4ad0b3e386d0371976e480ae9e8b4 - Sun Dec  1 16:29:47 EST 2024
+Success - Inscription 228 - TXID: 22db8636aef23883fb5dae11e076acb4a33f7ef5032a8ce5364ef52723458548 - Sun Dec  1 16:29:52 EST 2024
+Success - Inscription 229 - TXID: be81ad3c43434e54a029fb4373becbc27a606cc689f61010a4ab450ddc3e5064 - Sun Dec  1 16:29:57 EST 2024
+Success - Inscription 230 - TXID: fa8726a7918bf7e5246d0ab1c850bdba4b34706100f08ec5982dd744fb71449d - Sun Dec  1 16:30:02 EST 2024
+Success - Inscription 231 - TXID: 156e34a758c871b0198ca8d60f3b155b3f2bf1a14be4c595ddc0e129d6fe2fb9 - Sun Dec  1 16:30:08 EST 2024
+Success - Inscription 232 - TXID: e962752f14c9824227e8ed41dd6a9911c8cd8142ea18312a5a030b4f0925c126 - Sun Dec  1 16:30:13 EST 2024
+Success - Inscription 233 - TXID: c226e28a28fc0264d7c3ea60972ce2eef6bed7a37efca45056af2704ef8e9a3f - Sun Dec  1 16:30:18 EST 2024
+Mempool full at inscription 234 - Sun Dec  1 16:30:23 EST 2024
+Success - Inscription 234 - TXID: c495c6c526033ad044775310b0f1b8a8d2c11898af807e78ef2005bb45b69a94 - Sun Dec  1 16:31:34 EST 2024
+Success - Inscription 235 - TXID: 6e8601ad319dff07e84b6c97abb8e772ed343491a97ccd79c47051d62061be08 - Sun Dec  1 16:31:39 EST 2024
+Success - Inscription 236 - TXID: 39e2ae59f6ea67a45dec5f22d25c46b7eba0636c71e931f29e841fbd0380c7ec - Sun Dec  1 16:31:44 EST 2024
+Success - Inscription 237 - TXID: 109a996971ddf0f94f0e6182e15d47e83cdcf84fe420ef1879ff9a7e2791d6d4 - Sun Dec  1 16:31:50 EST 2024
+Success - Inscription 238 - TXID: 1d7ee927c2cb780279d54ee79511075d7cd4443e558f36b5cf993227f852c9d1 - Sun Dec  1 16:31:55 EST 2024
+Success - Inscription 239 - TXID: 7ad81c0cd34a46c44b776d695d5e18a508f51767d272e7a983aabf1892148550 - Sun Dec  1 16:32:00 EST 2024
+Success - Inscription 240 - TXID: 4bfddc54879ee40028f908c5f5793a6de83e08d30c25b5cdb14a974859885fef - Sun Dec  1 16:32:05 EST 2024
+Success - Inscription 241 - TXID: f0b0ccc52bed7a3c3018716d352586c55334130def7e0ba8a410315fecff4abd - Sun Dec  1 16:32:11 EST 2024
+Success - Inscription 242 - TXID: fabe9853384f2bea0dd2aa6068d0a4c0058ea496be3957b322a256ccaa5b1fe1 - Sun Dec  1 16:32:16 EST 2024
+Success - Inscription 243 - TXID: 8b16c2a5d16a9ba4846d12c838588bd8f5ce33690a1a90d0fd5f15a0a11f5eef - Sun Dec  1 16:32:21 EST 2024
+Success - Inscription 244 - TXID: 71c0b66ca78b0c7a111e27a3b4351652c8d92a4e8c6a4d3fc5312969878a6c57 - Sun Dec  1 16:32:26 EST 2024
+Success - Inscription 245 - TXID: fde4ca0ba3b28144de00facc160560d42e90d1d2953a45cf8ff2eb27a977ae48 - Sun Dec  1 16:32:32 EST 2024
+Mempool full at inscription 246 - Sun Dec  1 16:32:37 EST 2024
+Mempool full at inscription 246 - Sun Dec  1 16:33:47 EST 2024
+Mempool full at inscription 246 - Sun Dec  1 16:34:58 EST 2024
+Success - Inscription 246 - TXID: 185707c3fc78e2126d7749fab98379dba59dfb5b38156b7387aabfe504d1ec31 - Sun Dec  1 16:36:08 EST 2024
+Success - Inscription 247 - TXID: d897e7ba3620acb9be9f5203d7fbfea94e357c79f4a466665a610b19a8613899 - Sun Dec  1 16:36:13 EST 2024
+Success - Inscription 248 - TXID: deeb016b843872c165b64e9b579a7cff54f4cc16737f61121d7f1e85320eb8df - Sun Dec  1 16:36:18 EST 2024
+Success - Inscription 249 - TXID: dc6c435a1260b2d1d1688902f633d600b9afdc6c093fc0a1bf96049beec235ca - Sun Dec  1 16:36:24 EST 2024
+Success - Inscription 250 - TXID: 55f62427b2d92e92f97bd367caff6a54525a1d63bf4f3d07daa8ffe460aa619f - Sun Dec  1 16:36:29 EST 2024
+Success - Inscription 251 - TXID: e1b7cf1aa2d9187570c8d24540e5e78a5f73f5537f9fb0f0e8c828e197af6edb - Sun Dec  1 16:36:34 EST 2024
+Success - Inscription 252 - TXID: 884069f538394eab8a6d20e29f43d0d3e90262db56cf199de1d934ee05038d62 - Sun Dec  1 16:36:40 EST 2024
+Success - Inscription 253 - TXID: 45ba82030b3e0eaa32081883f39e52267e0d2c311204089063eeab765a1944ca - Sun Dec  1 16:36:45 EST 2024
+Success - Inscription 254 - TXID: 8a24a662a1a9bf90e127e8dbac1b879916c788bc7880779a6f4bd835c7c5ac6a - Sun Dec  1 16:36:50 EST 2024
+Success - Inscription 255 - TXID: 9228693c4bb73708f0f71514a47c90b8c1d258d4c1b339cb20770883fddc19ea - Sun Dec  1 16:36:55 EST 2024
+Success - Inscription 256 - TXID: 58940e3ba210b879841edc8079c47a9d0644d63a8b3e5c0448aa0188e9d8e479 - Sun Dec  1 16:37:01 EST 2024
+Success - Inscription 257 - TXID: e67b79bbc944dbb35e020c8a5574bb2260a2fb6089b04e8fc2e2de85f23e5220 - Sun Dec  1 16:37:06 EST 2024
+Mempool full at inscription 258 - Sun Dec  1 16:37:11 EST 2024
+Success - Inscription 258 - TXID: dd8c4e6639cb7c358c43b8058c0b72d874fd7cf73a7bd7dbfcd04eed4371e133 - Sun Dec  1 16:38:22 EST 2024
+Success - Inscription 259 - TXID: e3c8b1bc072b77da6d3a79ccd9094d8054c15b004eb4eb0af4edc38f9ec91542 - Sun Dec  1 16:38:27 EST 2024
+Success - Inscription 260 - TXID: 8f4f2e06eca443b72aafdbdde1080078a86af338cf13703f5ccdd48ff634099b - Sun Dec  1 16:38:32 EST 2024
+Success - Inscription 261 - TXID: c976a763a2701e8240ff1e7bee08c5241d24775244f4144841660fcccccac0a5 - Sun Dec  1 16:38:37 EST 2024
+Success - Inscription 262 - TXID: 85614f71a498b19a8ed7e448708e21346da0b728f1025f9d4341e600038b9e6a - Sun Dec  1 16:38:43 EST 2024
+Success - Inscription 263 - TXID: 9b46b83ffe7befda5ced29a95ccc1c5ba3334b135e22d39376f19f62d3dd6ff4 - Sun Dec  1 16:38:48 EST 2024
+Success - Inscription 264 - TXID: 471d6bc2e9d506e431409a22f99ffe178c4cd9dc99497cd5b3a99252621eb2c7 - Sun Dec  1 16:38:53 EST 2024
+Success - Inscription 265 - TXID: 09c7f9593833d40deeb5dc90704855e783b3c5827d1cec97a75f50f520e63560 - Sun Dec  1 16:38:58 EST 2024
+Success - Inscription 266 - TXID: 291a569a86a58d52cb1a0b2ba87d706a17e3db53eb76cee4c9a31716951a008d - Sun Dec  1 16:39:04 EST 2024
+Success - Inscription 267 - TXID: db23cb4dc966d08c9655e1f16ee87130908188eb56ba8bb1771b713af4a7a2fd - Sun Dec  1 16:39:09 EST 2024
+Success - Inscription 268 - TXID: 692100feabe88f6e39e2ead990f1f2a531baec0a8ce095701549298ab42379b6 - Sun Dec  1 16:39:14 EST 2024
+Success - Inscription 269 - TXID: f8846e7fabb05e34d463af1991e89f00cda03f57220261f9d68a4f43308cb2aa - Sun Dec  1 16:39:20 EST 2024
+Mempool full at inscription 270 - Sun Dec  1 16:39:25 EST 2024
+Success - Inscription 270 - TXID: bbb2362c1f61f0a4446f3e09fa7fbe954d827782a7548f2904d3a3d52f892d7c - Sun Dec  1 16:40:35 EST 2024
+Success - Inscription 271 - TXID: 4bd75475b2a54824500459410b4788046bcf48002674ba5acf6b814b0eedcf27 - Sun Dec  1 16:40:40 EST 2024
+Success - Inscription 272 - TXID: f863c6f36713d4ecb55bb35d158a78e6859570ca7c594395438990df21482375 - Sun Dec  1 16:40:46 EST 2024
+Success - Inscription 273 - TXID: 6ea41ed8dd833b9d700dc9f3c5985fb6d01e4eaba1bbd90c988b4dfc96b876b4 - Sun Dec  1 16:40:51 EST 2024
+Success - Inscription 274 - TXID: b316e256351fdefe19fccda7194d3bb95f71134b645c5090fc20686505af962d - Sun Dec  1 16:40:56 EST 2024
+Success - Inscription 275 - TXID: cdbb52d307b02bf086218b8a3eee9d08eca0d9a41161ec649e59bab8f4b7144d - Sun Dec  1 16:41:02 EST 2024
+Success - Inscription 276 - TXID: 7d3c27f033408e6240f7db244b943a5ed39115b2531a855ae528d9e932df247b - Sun Dec  1 16:41:07 EST 2024
+Success - Inscription 277 - TXID: dd999df25673fa8364dc0355cb129dedcf7f6f0bda23059acc01da6f904182ba - Sun Dec  1 16:41:12 EST 2024
+Success - Inscription 278 - TXID: 1114098e6dbd4f860925af3fc398f4b997335276b8a3692fb4679dfbb8698086 - Sun Dec  1 16:41:17 EST 2024
+Success - Inscription 279 - TXID: db56f78367c98f07868cd0f3de02d8ee6b72975fe9e6907c59c4f77fbeee547d - Sun Dec  1 16:41:23 EST 2024
+Success - Inscription 280 - TXID: 7839da7b0aaa71b5243424f168bb46de627a2240161000028d66f7685546b2dc - Sun Dec  1 16:41:28 EST 2024
+Success - Inscription 281 - TXID: a6cc81e198e8ea38af0c0c491702f350afa3d44624604b4095217ff61555f0cf - Sun Dec  1 16:41:33 EST 2024
+Mempool full at inscription 282 - Sun Dec  1 16:41:38 EST 2024
+Success - Inscription 282 - TXID: 77dfd3d237e72099a118fdbc79ab8f8c7937f761e4f6aed18a214d34cab6a1fd - Sun Dec  1 16:42:50 EST 2024
+Success - Inscription 283 - TXID: 9b4f38a8c70154180d973aef905959b0cb1f09e55a23b4c3b170954ce15da705 - Sun Dec  1 16:42:55 EST 2024
+Success - Inscription 284 - TXID: 1801fd0aca42a8edcc9d4c835022b27c404ac8c36dd154fe94c6633b9635af66 - Sun Dec  1 16:43:01 EST 2024
+Success - Inscription 285 - TXID: 2e2d4bb7851354f8a38d11b894581765289488c0fa46b8efab0ff848238684fa - Sun Dec  1 16:43:06 EST 2024
+Success - Inscription 286 - TXID: fa3d7074e9ebb51f66090b51edfa67ed6c0ae64b84eae51698b832f480a64a9b - Sun Dec  1 16:43:11 EST 2024
+Success - Inscription 287 - TXID: abce59e73e4cf01ff77ce9757367f65db14c1f66b705fb89456e2311e0ddc193 - Sun Dec  1 16:43:17 EST 2024
+Success - Inscription 288 - TXID: f07f18e5f77d5a0b35e2c72f0c5b2a67412566b6ae2b0cc09150dd8b440ac49a - Sun Dec  1 16:43:22 EST 2024
+Success - Inscription 289 - TXID: 3ac3cdf6ababbe2c4d79ea5ce9d57360b7334c7dd176f53b2775f74d470e211d - Sun Dec  1 16:43:27 EST 2024
+Success - Inscription 290 - TXID: 090b1367d4fe9f53881db932b25546436b51114a8c89cad7636819631e3053a2 - Sun Dec  1 16:43:32 EST 2024
+Success - Inscription 291 - TXID: 64da1b6f55f2be3261ad150d84a0e82dab68ef4cc4e664e1e1706306cf4661e1 - Sun Dec  1 16:43:38 EST 2024
+Success - Inscription 292 - TXID: 668c620a71a036d53cec943beac7e2c373e71bbb7777cb7a3f7e1046bbe99d3c - Sun Dec  1 16:43:43 EST 2024
+Success - Inscription 293 - TXID: 5324f5d755a795c4b47fc040a02d411d091883c740443c0eaf293c5694fc694a - Sun Dec  1 16:43:48 EST 2024
+Success - Inscription 294 - TXID: c541c1bbf8b498797b8b86f475256a65f378dad6e1e206b0c65815453d38575c - Sun Dec  1 16:43:54 EST 2024
+Mempool full at inscription 295 - Sun Dec  1 16:43:59 EST 2024
+Success - Inscription 295 - TXID: 8f1fb96d1f7bb56b409256455eadfc9c30531f74ac7115d3e4370170036d68be - Sun Dec  1 16:45:09 EST 2024
+Success - Inscription 296 - TXID: ff6bd37530988c407b9555fbd69f8754062cfbaa07866433fe774c6fe80f6767 - Sun Dec  1 16:45:14 EST 2024
+Success - Inscription 297 - TXID: 738302a92f9d6b1a14b50f1f50419f0a2773417bef330ad3bfb65cbe59486be2 - Sun Dec  1 16:45:20 EST 2024
+Success - Inscription 298 - TXID: f33924066e730ab4720cb2e1312fa8d4da6af8c6b83de0ff962eb73b69894bb0 - Sun Dec  1 16:45:25 EST 2024
+Success - Inscription 299 - TXID: 3bcbc05a454af073f389ca37d41217b7a09ed66c7a5703f6367f202b808d8773 - Sun Dec  1 16:45:30 EST 2024
+Success - Inscription 300 - TXID: e53a772dc4d697a9c3714c229910715af64ab0313ca80524863f947266d43544 - Sun Dec  1 16:45:36 EST 2024
+Success - Inscription 301 - TXID: f730b2c43be597ed9d5ce6b2a7c9d584700bec361ae19cc556598bb4b3b54448 - Sun Dec  1 16:45:41 EST 2024
+Success - Inscription 302 - TXID: 7bf2439f5b0aa94d4cc29802019a34c3eef381e0bb152d41dadc3b3f2e736f82 - Sun Dec  1 16:45:46 EST 2024
+Success - Inscription 303 - TXID: d48847801f3d6ce1fd79e85bcd6655d88563c3f95f57153a3098281af6c26735 - Sun Dec  1 16:45:51 EST 2024
+Success - Inscription 304 - TXID: da9b163305431389b59a26be63deea9c41e101e16e918b4e3c459a9128ccd2cd - Sun Dec  1 16:45:57 EST 2024
+Success - Inscription 305 - TXID: 32b3deee98eccb887550403282dc553defb4ab12beaa5a8fe532b88db160790a - Sun Dec  1 16:46:02 EST 2024
+Success - Inscription 306 - TXID: 17bece9f9ae116deccbb2e68fe7e3f7820581077d54ace035055f105a8a9eeb7 - Sun Dec  1 16:46:07 EST 2024
+Mempool full at inscription 307 - Sun Dec  1 16:46:13 EST 2024
+Success - Inscription 307 - TXID: f349aa2fc57b39103da96141a889ad9773c7c2c62f8f2b409f94a38210094c3c - Sun Dec  1 16:47:23 EST 2024
+Success - Inscription 308 - TXID: a95cbec2b74a317f5052b1904c2cc4ba9dcedf01cf6550810f7e5b41d56cc7ec - Sun Dec  1 16:47:28 EST 2024
+Mempool full at inscription 309 - Sun Dec  1 16:47:33 EST 2024
+Success - Inscription 309 - TXID: 9684bae3d2a5e2718e554dad70bea84269d7b384809aad06a5d1054e6bc3bf89 - Sun Dec  1 16:48:44 EST 2024
+Success - Inscription 310 - TXID: c128f32a4782781226fadb0cc7fd422f380e21772074cfc90739dd1332756ec4 - Sun Dec  1 16:48:49 EST 2024
+Success - Inscription 311 - TXID: 0002adaa9544a5be21ae6b8ace64287e37d7cfef10cfd00f112970c433e40906 - Sun Dec  1 16:48:54 EST 2024
+Success - Inscription 312 - TXID: d7b00d9dff682f16cc8fd94bba4e650020463b7254b6ad51d2ad25223acd15c9 - Sun Dec  1 16:48:59 EST 2024
+Success - Inscription 313 - TXID: a6b13267419f5f4c68f701ae7f74d1b92f500f0a14feb5f1eadc31c6a5b514c8 - Sun Dec  1 16:49:05 EST 2024
+Success - Inscription 314 - TXID: c9d0861d26e115efc44124082e3e8354378982c30e26841022ef08ff53dc7d77 - Sun Dec  1 16:49:10 EST 2024
+Success - Inscription 315 - TXID: a29277674dff24e339a128bcfa476557121f162fe15f35c5d9ed33f0dec3b9c1 - Sun Dec  1 16:49:15 EST 2024
+Success - Inscription 316 - TXID: be3c756f0342f63cb650a4612024e56e4a413a1f4a993bffaee60996cc526cb4 - Sun Dec  1 16:49:21 EST 2024
+Success - Inscription 317 - TXID: c335326235318dd57418239317106659e93b37dca3e7eccda92112214aaac51c - Sun Dec  1 16:49:26 EST 2024
+Success - Inscription 318 - TXID: 525c2b3d610d160a3fdc7adb5cc9d940d87e6dae0e70b9f67b98e393eb57b788 - Sun Dec  1 16:49:31 EST 2024
+Mempool full at inscription 319 - Sun Dec  1 16:49:36 EST 2024
+Mempool full at inscription 319 - Sun Dec  1 16:50:47 EST 2024
+Success - Inscription 319 - TXID: e624ca25a46815783545ec6092f12d2205cf16cb159a8121341d1a9228b79a11 - Sun Dec  1 16:51:57 EST 2024
+Success - Inscription 320 - TXID: 365defd35bf89412a27475c9c3a3cba05ebefe2405a9764472475a5a5eefa0b4 - Sun Dec  1 16:52:02 EST 2024
+Success - Inscription 321 - TXID: d29bb899a9e94e2481b291bd569ce5459aa0fa20cb8605ee855b9f2aeba4e88c - Sun Dec  1 16:52:08 EST 2024
+Success - Inscription 322 - TXID: 5a708b25b7c6c942545e109acb52dc15ead33591f52393befa1515ce933bd2c4 - Sun Dec  1 16:52:13 EST 2024
+Success - Inscription 323 - TXID: 7f06860a322baf85ba7575e5a036f19f4fef840b1dc057ac59be615f08d8f679 - Sun Dec  1 16:52:18 EST 2024
+Success - Inscription 324 - TXID: ccdf7a390622aa5dd2cb7dae6461ee347cd1031ebcbe12cc9f05db33d115d612 - Sun Dec  1 16:52:23 EST 2024
+Success - Inscription 325 - TXID: 5ea9949a212f9142230115dab43f570ca0182fd137290499c2f28362c0e34c33 - Sun Dec  1 16:52:29 EST 2024
+Success - Inscription 326 - TXID: 9ddfb1b802ae9e9a4d906804487fe08c3380e273d729f24ea117982f7d4ebe19 - Sun Dec  1 16:52:34 EST 2024
+Success - Inscription 327 - TXID: 645d81ba38c8a66a3be061f6fc1f95df052f3795ba0d5adf85991f994af84350 - Sun Dec  1 16:52:39 EST 2024
+Success - Inscription 328 - TXID: d1ea815d720373534caa7000fb106016eac7fbd7af3d5eca7f4c3068de0c232e - Sun Dec  1 16:52:45 EST 2024
+Success - Inscription 329 - TXID: 41e5a5b46c21574bd9a28f8423114f132ca872f6d6e77234d61eaeee98b0baa0 - Sun Dec  1 16:52:50 EST 2024
+Success - Inscription 330 - TXID: 5ceefc2337ac059c3319e737f862d15ee9e0737605dd2bd1da7dcec750955074 - Sun Dec  1 16:52:55 EST 2024
+Mempool full at inscription 331 - Sun Dec  1 16:53:00 EST 2024
+Success - Inscription 331 - TXID: a0ef45c16716e9a8ab29f2c5d8e98d7e53a12a04587d75b7dda70c468d353b96 - Sun Dec  1 16:54:11 EST 2024
+Success - Inscription 332 - TXID: 2e7eac3729b973c19fc776dbf9e5cfb50cb13f1e83ec65ee439602e3463fdf97 - Sun Dec  1 16:54:16 EST 2024
+Success - Inscription 333 - TXID: 3a22b6346f5f60f8fc04ffd07a130d96e8879a939f028529a1c23b4d0ddfc649 - Sun Dec  1 16:54:21 EST 2024
+Success - Inscription 334 - TXID: 7b39cd4fd5661809e48a3bb41803d9e26f40c2ed61e707d8303e4f256ba75977 - Sun Dec  1 16:54:27 EST 2024
+Success - Inscription 335 - TXID: 9f40b39c207f3a35087146803e3827104bcc12c2564be9c021767d6b935b6f21 - Sun Dec  1 16:54:32 EST 2024
+Success - Inscription 336 - TXID: 0fe3b9dac34215c7d309749256748fbdd6d5f8bd81691386ec2e10219812d42e - Sun Dec  1 16:54:37 EST 2024
+Success - Inscription 337 - TXID: 85d880c330f4752cc9c566862db730a4e9ce07e327ee59db6d9b5723ac72b785 - Sun Dec  1 16:54:42 EST 2024
+Success - Inscription 338 - TXID: 5b424c76cb45a666ff779471ccc1f2b87f5ae59987b76b12f3f75e40574a161a - Sun Dec  1 16:54:48 EST 2024
+Success - Inscription 339 - TXID: b5a46f404520ebffaa38d8c9b673dbe3f61d9a5b4dc78b7a5b900349b005d44a - Sun Dec  1 16:54:53 EST 2024
+Success - Inscription 340 - TXID: 0ad405bc5e27ffc7429c81e2ddc9427cca39a26ce00c2bf769acc31cee42fdbe - Sun Dec  1 16:54:58 EST 2024
+Success - Inscription 341 - TXID: a01c24e48055a0b9bb5e4a5860a1beb941833e6e1ec469d8a82a2c479476a554 - Sun Dec  1 16:55:04 EST 2024
+Success - Inscription 342 - TXID: ac007af97c8a75abefaee099b99394759761f691bdabed4a3f7217ec4143ff3b - Sun Dec  1 16:55:09 EST 2024
+Success - Inscription 343 - TXID: e13f251269470065ceea0c521c31adfb9260617532ec0280884e95d3ad33f28b - Sun Dec  1 16:55:14 EST 2024
+Success - Inscription 344 - TXID: 33ff479140aefc7b3696dcef3d833df48d5249b58b8e1886d2fed6486faf65d8 - Sun Dec  1 16:55:19 EST 2024
+Success - Inscription 345 - TXID: 40f47301010f323ef55ee2aaa9959860cc8c74bbe6fb05b121fce3c7b45039d1 - Sun Dec  1 16:55:25 EST 2024
+Success - Inscription 346 - TXID: 2afc04e4d99db764303883b66e01d913f69dc98219d9c15ef1c68f1fb21c7206 - Sun Dec  1 16:55:30 EST 2024
+Success - Inscription 347 - TXID: 4232a6325ddea05d877cb6aa2a5f801ae90dee5c8741240fb0761b3fbc24d5df - Sun Dec  1 16:55:35 EST 2024
+Success - Inscription 348 - TXID: 98668ba7f462ae5b25e9a3d4024dbd263482f5ff6527b9c4326d62febb3e91f7 - Sun Dec  1 16:55:40 EST 2024
+Success - Inscription 349 - TXID: 85eab3f3343c02f3d98fd6ac67faa43adfbcf26cd06f8519d1d0639d31e1cd20 - Sun Dec  1 16:55:46 EST 2024
+Mempool full at inscription 350 - Sun Dec  1 16:55:51 EST 2024
+Success - Inscription 350 - TXID: 41d0011e9de4c0a6acc663af68dd09f1a5d614ef49d4d9d6caf65923e00813b1 - Sun Dec  1 16:57:01 EST 2024
+Success - Inscription 351 - TXID: 4dff3abdee6e9f41290c042deb5562dedb67424d948dadf7b37958cb706f313b - Sun Dec  1 16:57:07 EST 2024
+Success - Inscription 352 - TXID: 7ebde4188c9f87c7b851b6bff1e3f96ec3506169c8d50a17b658dd5d9873134f - Sun Dec  1 16:57:12 EST 2024
+Success - Inscription 353 - TXID: bf8ad0a98a764f48116c413e58ecb014f4feaceb1dadd2e7a7edcf5ebb6fec39 - Sun Dec  1 16:57:17 EST 2024
+Success - Inscription 354 - TXID: 0fc8b829ccbb24f1c36a7b41c736daa97f63d80d710950a449035e3669ab8a50 - Sun Dec  1 16:57:22 EST 2024
+Success - Inscription 355 - TXID: 1a657fb0e9526d6b68af89a4767a368c22bef5eb994c1c94799d3251822c1552 - Sun Dec  1 16:57:28 EST 2024
+Success - Inscription 356 - TXID: 1fcbbd09311dd601a06c6296a4248cf86701718fc08c50e1775db9d39ba6d7be - Sun Dec  1 16:57:33 EST 2024
+Success - Inscription 357 - TXID: a3a339ddd81f4f5614e2d9b308be59701257089e9b30f4f9a52097871ebf65e2 - Sun Dec  1 16:57:38 EST 2024
+Success - Inscription 358 - TXID: 37c83e266e39241a654e13dc82a34b5d0ce5dabb0989ff1f9b7cca10114917e9 - Sun Dec  1 16:57:44 EST 2024
+Success - Inscription 359 - TXID: 457ca0aef69dee4d58a56e615b5a46183194f036a904d5d671cb9b9f11a9395a - Sun Dec  1 16:57:49 EST 2024
+Success - Inscription 360 - TXID: b839d8b2a5bc75e99bb575ba98f442996c86714002be86eab373b89aa0ccf715 - Sun Dec  1 16:57:54 EST 2024
+Success - Inscription 361 - TXID: 00a82921d2a9309cd374819a845cbf2fb19517c417be039527515d8345f8e50c - Sun Dec  1 16:57:59 EST 2024
+Mempool full at inscription 362 - Sun Dec  1 16:58:05 EST 2024
+Success - Inscription 362 - TXID: f36f1b050d9b9d67acce55552f1735d72cc4bc8f970a5b3ca092b3e03332505b - Sun Dec  1 16:59:15 EST 2024
+Success - Inscription 363 - TXID: 49902818e514519712b5c849058a90c0d61f02fba6a228342c7d2ef40a4bae80 - Sun Dec  1 16:59:20 EST 2024
+Success - Inscription 364 - TXID: 4fd1577ec3da9203e1b36b6aba7a02c796b7ef502edb68bcbe3b248b3487a3c1 - Sun Dec  1 16:59:26 EST 2024
+Success - Inscription 365 - TXID: 3945485e13ad9154fd63f266c6a0547517879382a00d7ba65254ec1d5b2fac4a - Sun Dec  1 16:59:31 EST 2024
+Success - Inscription 366 - TXID: 6e93f83023f7e8506e39ef03341034f368fd32a6439175c65c30dc465709460b - Sun Dec  1 16:59:36 EST 2024
+Success - Inscription 367 - TXID: 74b982a91dc73b9ac11a177246888fda11189924da8a6fc20e17dfefaf60b6cb - Sun Dec  1 16:59:42 EST 2024
+Success - Inscription 368 - TXID: 539bd43db2ddb10c0969d134d978b7d707dcdd4927539f2d314dfa862df5cb4d - Sun Dec  1 16:59:47 EST 2024
+Success - Inscription 369 - TXID: 01ae52dd33d4a0916a30f15ba85cb977e400a6459626213561d04b1c09fa5a5c - Sun Dec  1 16:59:52 EST 2024
+Success - Inscription 370 - TXID: cd934ecf4620876a9ab58a91657beba93340700cc812b196831b7a958242b692 - Sun Dec  1 16:59:57 EST 2024
+Success - Inscription 371 - TXID: b165d8149cdb1dbaa5cebcc9295e8c5d17bfb566be973c7da08ac697334e3601 - Sun Dec  1 17:00:03 EST 2024
+Success - Inscription 372 - TXID: d3c1b597368cd2bc0efee95570497f7c1aa3526c142cc46694a3cc6d3ac59310 - Sun Dec  1 17:00:08 EST 2024
+Success - Inscription 373 - TXID: 4f406ba07880516df53c34a54a57d7f42fce81c0149d576c542afa4744a487e4 - Sun Dec  1 17:00:13 EST 2024
+Mempool full at inscription 374 - Sun Dec  1 17:00:18 EST 2024
+Success - Inscription 374 - TXID: 4cb617955c6e1e5785b422828bea482767d27eea0e5a230f6aa851d02e4e2066 - Sun Dec  1 17:01:29 EST 2024
+Success - Inscription 375 - TXID: 37148798e677fed75ccb52db1b88d2bf354a314d00b822fcc040b7f63da0f907 - Sun Dec  1 17:01:34 EST 2024
+Success - Inscription 376 - TXID: ac0139ef93d0f1f48fa2bf4091fd57321dcbfc97458323efbae184d4ddad2605 - Sun Dec  1 17:01:39 EST 2024
+Success - Inscription 377 - TXID: 42ecae94b018853b7cc17e6508d59d70f782320342962a046e736c3baf6542bb - Sun Dec  1 17:01:45 EST 2024
+Success - Inscription 378 - TXID: 2b01fb5cf7a6547421ddcf735307702157320fff5c2cba679ca63602a96716f7 - Sun Dec  1 17:01:50 EST 2024
+Success - Inscription 379 - TXID: 8823c1433cee4efe172e8244a727e198ada82715646c4b254421654b95c6a05f - Sun Dec  1 17:01:55 EST 2024
+Success - Inscription 380 - TXID: ffb51016bd9e6f0814376d9f5351e512fd80aee9a809850555cab2f4e77bc63d - Sun Dec  1 17:02:01 EST 2024
+Success - Inscription 381 - TXID: 3dae06a6429ac5058e68262ff21a4ce38809b9b7e6de42adce056551421c0838 - Sun Dec  1 17:02:06 EST 2024
+Success - Inscription 382 - TXID: ec88328221a625104c9fc2856112f3458ea33d1991430bb7c5d22af176c21add - Sun Dec  1 17:02:11 EST 2024
+Success - Inscription 383 - TXID: ed86bd38f459a938a01ad38b40d4fe4866e2c68110fa0b92bd38dcde64e237f8 - Sun Dec  1 17:02:16 EST 2024
+Success - Inscription 384 - TXID: 7116a6945b67d73079c6bb3c127d0811ef67e939f3ac2d8dc0523e1a71b38fb6 - Sun Dec  1 17:02:22 EST 2024
+Success - Inscription 385 - TXID: c1a94aaf5900724ce3bace148a0fcfb0221d38f5f9e7c0e4edaa04aff5cf3ed7 - Sun Dec  1 17:02:27 EST 2024
+Success - Inscription 386 - TXID: 3afca3921faaed4e57f97b73e294e20564d70882f567d0e5d49a1fe111a01522 - Sun Dec  1 17:02:32 EST 2024
+Mempool full at inscription 387 - Sun Dec  1 17:02:38 EST 2024
+Success - Inscription 387 - TXID: d4c07350123d9b0b574de5d2709cdfe8217bca82ccb4bc49fff2c61f28bb4dca - Sun Dec  1 17:03:48 EST 2024
+Success - Inscription 388 - TXID: 304969b47207c5808b8a3af0f34c1c44db906e2da40259bf6545e25ce74f761c - Sun Dec  1 17:03:53 EST 2024
+Success - Inscription 389 - TXID: 7e0788eaa2d23ac757755fc800ed0baac542536ffd627218129ce146db2369c8 - Sun Dec  1 17:03:58 EST 2024
+Success - Inscription 390 - TXID: 7d1f678ee132b3702b8e0e80adc33d41163824ba62ad3081ab630018513d9843 - Sun Dec  1 17:04:04 EST 2024
+Success - Inscription 391 - TXID: 93037210e0c29a52b7cf6cca7500728db5a31ca86c38e734233149361a9afd44 - Sun Dec  1 17:04:09 EST 2024
+Success - Inscription 392 - TXID: 66b4d615e1802a164f87e31b2f01abc0144a5be4f8b350c36cf333ead8af59f9 - Sun Dec  1 17:04:14 EST 2024
+Success - Inscription 393 - TXID: 1047482d9eef0b767e1af36a62094b1155e3080b312b57ef77d52d4f8f28c9b4 - Sun Dec  1 17:04:20 EST 2024
+Success - Inscription 394 - TXID: 4a588b30bdabad108eb8fafc7615c4b9b95ba4d4bdeffe6d406758bda1e2dd40 - Sun Dec  1 17:04:25 EST 2024
+Success - Inscription 395 - TXID: 41e2ec18fe7fc757aa9f70ddf5159987bd11cbeaf98773719e17b04e16b515b9 - Sun Dec  1 17:04:30 EST 2024
+Success - Inscription 396 - TXID: 6b8b3485159bdb4576ce61eb92ace7a571c3e6c2c2391051a9cf5c877cf87243 - Sun Dec  1 17:04:35 EST 2024
+Success - Inscription 397 - TXID: 03b3a94a6a6d94cd108e9417f9032fc569bfa98ef179d498dd6e68b06aff8f8d - Sun Dec  1 17:04:41 EST 2024
+Success - Inscription 398 - TXID: c1d58541d5cc57bc95d27bd882986b5d48fef03daa68c45f51150c2ef24d3d16 - Sun Dec  1 17:04:46 EST 2024
+Mempool full at inscription 399 - Sun Dec  1 17:04:51 EST 2024
+Success - Inscription 399 - TXID: 170ef10a85c971dd813b5d7d3b150b4bab020e1d4b79883bf933726262768029 - Sun Dec  1 17:06:02 EST 2024
+Success - Inscription 400 - TXID: 048153780cb79b39aa2afb1de417d6a86cc5a4c47919a22d45f7ae5bba028249 - Sun Dec  1 17:06:07 EST 2024
+Success - Inscription 401 - TXID: 32431aa025dc528ccbb70697d9a1990b521081d38a009aeef764336ad7a4e8b3 - Sun Dec  1 17:06:12 EST 2024
+Success - Inscription 402 - TXID: 897853e5507dd7f6229dc2fefa02a0ce4ca4d64d71aa1a189f660c18ef99e48a - Sun Dec  1 17:06:17 EST 2024
+Success - Inscription 403 - TXID: f6cc93fe7965cdb2b79bd8334e080ea9e601c86628a6e9f03cf8445f16be85f3 - Sun Dec  1 17:06:23 EST 2024
+Success - Inscription 404 - TXID: 200eb3c17edf66569782fd52ed8e91a402f8793b9ff6b11594dd311f23ce2fe6 - Sun Dec  1 17:06:28 EST 2024
+Success - Inscription 405 - TXID: 573576fea41bb9f851204e8a977a9505f14dc975848cd53896f50e0d6ba28eae - Sun Dec  1 17:06:33 EST 2024
+Success - Inscription 406 - TXID: 376a413ea21062ea3d16eb7922f67c87af0a017d9d26df998a00df9591e1b4f7 - Sun Dec  1 17:06:38 EST 2024
+Success - Inscription 407 - TXID: e7df0918811fc0ac4342183b8de4346c193fb54584158fa9c7b6aba22eed21de - Sun Dec  1 17:06:44 EST 2024
+Success - Inscription 408 - TXID: b12786dea2189c79a5e2664586b9ade064af264af1f6f245cb069a2ea86ed485 - Sun Dec  1 17:06:49 EST 2024
+Success - Inscription 409 - TXID: dbdce45f4ef6bcfd5438b52fd2b536983cbc597b08fc37772dba618437db1a28 - Sun Dec  1 17:06:54 EST 2024
+Success - Inscription 410 - TXID: 830f8930b7572fce9faef4f5145ce08d7078b5ca836a721a996acfea4ff22ed6 - Sun Dec  1 17:07:00 EST 2024
+Mempool full at inscription 411 - Sun Dec  1 17:07:05 EST 2024
+Mempool full at inscription 411 - Sun Dec  1 17:08:15 EST 2024
+Success - Inscription 411 - TXID: 4770ad66d7ae2a891ffedfa213396de758c84992c78b953573d8f8c96ee63bc1 - Sun Dec  1 17:09:25 EST 2024
+Success - Inscription 412 - TXID: b5683bf445a0677c5e40f95fa0b674acc74e351acf9a7f10599983aaa589e11a - Sun Dec  1 17:09:31 EST 2024
+Success - Inscription 413 - TXID: a156e410e0aeaae9cb7627fb0514e04a9939b162ce4a2554235a5490e09b736e - Sun Dec  1 17:09:36 EST 2024
+Success - Inscription 414 - TXID: 1827aa5028fa710046cce81bf827cfa0cbaada70d39d039b4ac00b60777b9279 - Sun Dec  1 17:09:41 EST 2024
+Success - Inscription 415 - TXID: b76f63dbc0154e0d5418ffd2c3ebdcd76506e14195d6158b5bcb5cd4ef820646 - Sun Dec  1 17:09:47 EST 2024
+Success - Inscription 416 - TXID: 536573930645bd6e498ed75529ce35f69ff20bfa2338ef57e817e8de314cb5bb - Sun Dec  1 17:09:52 EST 2024
+Success - Inscription 417 - TXID: 0bf7b004d16d2b910951c8643f13f37349c6c1bcf87b31bdca63cb1552e5d509 - Sun Dec  1 17:09:57 EST 2024
+Success - Inscription 418 - TXID: b361b0c11dee239e8fc52cbe76045e0097375c6e31a1b241fe41da52ae5cf0fc - Sun Dec  1 17:10:02 EST 2024
+Success - Inscription 419 - TXID: ed2e8db247c172bbb551bcc468159f23defd9c7d91cebd44b548fb632eb25de3 - Sun Dec  1 17:10:08 EST 2024
+Minting process completed at Sun Dec  1 17:10:13 EST 2024
